@@ -3,6 +3,8 @@
 
 This project is a Medical Chatbot designed using Retrieval-Augmented Generation (RAG) architecture. The chatbot utilizes advanced machine learning models, including large language models (LLMs) and embeddings, to provide accurate and relevant responses based on the provided context. The chatbot processes medical documents and allows users to ask health-related questions. 
 
+<img width="25%" src="https://img.freepik.com/free-vector/chatbot-chat-message-vectorart_78370-4104.jpg?semt=ais_hybrid">
+
 ---
 
 ### 📄 Data Source: 
