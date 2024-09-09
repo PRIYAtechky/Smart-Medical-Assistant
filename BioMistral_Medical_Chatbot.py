@@ -32,7 +32,7 @@ len(chunks)
 # Embeddings creations
 
 import os
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = "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"
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = "API_KEY"
 embeddings = SentenceTransformerEmbeddings(model_name="NeuML/pubmedbert-base-embeddings")
 
 # Vector Store creation
