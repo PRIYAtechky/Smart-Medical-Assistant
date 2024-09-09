@@ -1,7 +1,8 @@
 # Build BioMistral Medical RAG Chatbot using BioMistral Open Source LLM 
 # 🩺 Medical Chatbot using RAG (Retrieval-Augmented Generation)
 
-This project is a Medical Chatbot designed using Retrieval-Augmented Generation (RAG) architecture. The chatbot utilizes advanced machine learning models, including large language models (LLMs) and embeddings, to provide accurate and relevant responses based on the provided context. The chatbot processes medical documents and allows users to ask health-related questions. 
+This project is a Medical Chatbot designed using Retrieval-Augmented Generation (RAG) architecture. The chatbot utilizes advanced machine learning models, including large language models (LLMs) and embeddings, to provide accurate and relevant responses based on the provided context. 
+The chatbot processes medical documents and allows users to ask health-related questions. 
 <img width="55%" src="https://miro.medium.com/v2/resize:fit:1400/1*viGhVLaYS1uhGh0_ZHu2uQ.png"> 
 
 ---
