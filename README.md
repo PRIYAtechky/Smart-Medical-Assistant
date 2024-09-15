@@ -29,7 +29,7 @@ This project is a Medical Chatbot designed using Retrieval-Augmented Generation 
 
 ---
 
-## 🧩Embeddings Model:
+## 🧩 Embeddings Model:
 **PubMedBert-Base-embeddings**  
 [PubMedBert Embeddings](https://huggingface.co/NeuML/pubmedbert-base-embeddings)
 
