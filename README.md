@@ -55,3 +55,10 @@ This project is a Medical Chatbot designed using Retrieval-Augmented Generation 
 - ➡️ [Langchain Documentation](https://langchain.com/docs)
 - ➡️ [BioMistral-7B Model](https://huggingface.co/MazivarPanahi/BioMistral-7B-GGUF/tree/main)
 - ➡️ [PubMedBert Embeddings](https://huggingface.co/NeuML/pubmedbert-base-embeddings)
+
+
+## ⭐ Give a Star!  
+
+If you like this project, feel free to ⭐ the repo.  
+It motivates me to build more projects!
+
